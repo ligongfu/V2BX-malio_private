@@ -3,7 +3,7 @@
 这是专门为 SSPanel-UIM 面板定制的 V2bX 版本，支持完整的 VLESS Reality 节点对接。
 
 ## 一键安装脚本
-wget -N https://raw.githubusercontent.com/0175angela/V2BX-malio_private/main/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/ligongfu/V2BX-malio_private/main/install.sh && bash install.sh
 
 ## 🚀 特性
 
